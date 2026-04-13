@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "VitalPath"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Evidence-based health tips, wellness routines, and self-care guides for a balanced life"
+
+[params.author]
+  name = "VitalPath"
+  headline = "Your guide to evidence-based health and wellness"
+  bio = "Evidence-based health tips, wellness routines, and self-care guides for a balanced life."
+  links = []
