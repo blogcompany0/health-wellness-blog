@@ -1,5 +1,6 @@
 theme = "blowfish"
 baseURL = "https://blogcompany0.github.io/health-wellness-blog/"
+googleAnalytics = "G-63H6GS0341"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
