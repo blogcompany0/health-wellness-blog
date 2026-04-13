@@ -5,6 +5,7 @@ draft: false
 description: "Sleep needs vary more than you think. Here's what the latest research says about finding your optimal sleep duration."
 tags: ["sleep", "circadian rhythm", "recovery", "health science"]
 categories: ["Sleep & Recovery"]
+featureimage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&h=500&fit=crop"
 ---
 
 We've all heard the "get 8 hours" advice. But sleep science has moved well beyond one-size-fits-all recommendations. Your optimal sleep duration depends on genetics, age, activity level, and even the season.

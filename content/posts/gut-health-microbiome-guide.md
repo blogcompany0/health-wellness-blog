@@ -5,6 +5,7 @@ draft: false
 description: "Forget expensive supplements. Here's what science actually says about building a healthy gut microbiome through everyday choices."
 tags: ["gut health", "microbiome", "nutrition", "digestion"]
 categories: ["Nutrition"]
+featureimage: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&h=500&fit=crop"
 ---
 
 The gut health industry is booming — probiotics, prebiotics, postbiotics, synbiotics. But behind the marketing, the science tells a simpler story than most supplement companies want you to hear.

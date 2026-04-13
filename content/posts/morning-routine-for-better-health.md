@@ -5,6 +5,7 @@ draft: false
 description: "Start your day right with these evidence-based morning habits that boost energy, improve focus, and support long-term wellness."
 tags: ["morning routine", "habits", "wellness", "energy"]
 categories: ["Lifestyle"]
+featureimage: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&h=500&fit=crop"
 ---
 
 How you start your morning sets the tone for the rest of your day. Research consistently shows that intentional morning routines can improve both physical and mental health outcomes. Here are five evidence-based habits worth adopting.

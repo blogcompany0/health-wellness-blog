@@ -1,9 +1,10 @@
-colorScheme = "avocado"
+colorScheme = "vitalflow"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+hotlinkFeatureImage = true
 
 mainSections = ["posts"]
 

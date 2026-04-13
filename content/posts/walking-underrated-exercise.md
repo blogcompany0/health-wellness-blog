@@ -5,6 +5,7 @@ draft: false
 description: "New research confirms that regular walking delivers surprisingly powerful health benefits. No gym membership required."
 tags: ["walking", "exercise", "cardiovascular health", "mental health"]
 categories: ["Fitness"]
+featureimage: "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800&h=500&fit=crop"
 ---
 
 In a world obsessed with HIIT workouts and marathon training, walking gets dismissed as "not real exercise." But a growing body of research suggests that walking may be the single most effective form of physical activity for long-term health.

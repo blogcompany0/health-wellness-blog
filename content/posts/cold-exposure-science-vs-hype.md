@@ -5,6 +5,7 @@ draft: false
 description: "Cold exposure is trending, but does the science support the claims? A balanced look at what cold therapy can and can't do."
 tags: ["cold exposure", "recovery", "immune system", "biohacking"]
 categories: ["Recovery & Biohacking"]
+featureimage: "https://images.unsplash.com/photo-1585842378054-ee2e52f94ba2?w=800&h=500&fit=crop"
 ---
 
 Cold plunges are everywhere — from Instagram reels to corporate wellness programs. Advocates claim they boost immunity, burn fat, improve mood, and accelerate recovery. But how much of this is backed by solid evidence?

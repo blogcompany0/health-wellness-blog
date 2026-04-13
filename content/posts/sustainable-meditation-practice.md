@@ -5,6 +5,7 @@ draft: false
 description: "Meditation doesn't have to mean sitting cross-legged in silence. Here are practical approaches that work for restless minds."
 tags: ["meditation", "mindfulness", "stress management", "mental health"]
 categories: ["Mental Wellness"]
+featureimage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=500&fit=crop"
 ---
 
 If you've tried meditation and quit because you "can't stop thinking," you're not alone. About 60% of people who start a meditation practice abandon it within the first month. But the problem usually isn't you — it's the approach.

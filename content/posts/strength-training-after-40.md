@@ -5,6 +5,7 @@ draft: false
 description: "Age-related muscle loss is real but highly preventable. Here's how to adapt your training for long-term strength and health."
 tags: ["strength training", "aging", "muscle health", "longevity"]
 categories: ["Fitness"]
+featureimage: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=500&fit=crop"
 ---
 
 Starting around age 30, adults lose 3-8% of muscle mass per decade. After 50, that rate accelerates. This process — called sarcopenia — is one of the strongest predictors of reduced quality of life in older adults. But it's also one of the most preventable.
